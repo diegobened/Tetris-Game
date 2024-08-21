@@ -19,8 +19,6 @@ Follow the steps below to run the application from the command-line:
 
 You should get the following UI:
 
-<p align="center">
-  <img width="499" alt="game-screen-shot" src="https://github.com/user-attachments/assets/855c84ec-d6a0-40df-9d7c-88ded652fc50">
-</p>
+![Alt text](game-screen-shot.png)
 
 Enjoy your game!
